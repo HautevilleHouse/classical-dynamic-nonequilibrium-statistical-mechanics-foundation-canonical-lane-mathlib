@@ -1,0 +1,9 @@
+import classical_dynamic_nonequilibrium_statistical_mechanics_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace classical_dynamic_nonequilibrium_statistical_mechanics_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end classical_dynamic_nonequilibrium_statistical_mechanics_foundation_canonical_lane_mathlib
+end HautevilleHouse
